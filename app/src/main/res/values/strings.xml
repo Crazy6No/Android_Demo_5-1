@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConsultActivity</string>
+    <string name="consult">报考咨询</string>
+    <string name="submitQuestion">提问</string>
+    <string name="inputHint">请输入你想咨询的问题</string>
+    <string name="keywordHint">请输入搜索的关键字</string>
+    <string name="save">保存</string>
+    <string name="selfInfoTitle">个人基本信息</string>
+    <string name="score">高考成绩</string>
+    <string name="inputScore">输入高考成绩</string>
+    <string name="rank">高考排名</string>
+    <string name="targetArea">意向省份</string>
+    <string name="recruitBatch">录取批次</string>
+    <string name="studentCategory">考试类别</string>
+    <string name="search">查询</string>
+</resources>
